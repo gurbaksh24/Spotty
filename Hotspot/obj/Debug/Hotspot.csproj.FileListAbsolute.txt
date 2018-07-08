@@ -1,0 +1,8 @@
+c:\users\cyberboy\documents\visual studio 2013\Projects\Hotspot\Hotspot\bin\Debug\Hotspot.exe
+c:\users\cyberboy\documents\visual studio 2013\Projects\Hotspot\Hotspot\bin\Debug\Hotspot.pdb
+c:\users\cyberboy\documents\visual studio 2013\Projects\Hotspot\Hotspot\obj\Debug\Hotspot.csprojResolveAssemblyReference.cache
+c:\users\cyberboy\documents\visual studio 2013\Projects\Hotspot\Hotspot\obj\Debug\Hotspot.Form1.resources
+c:\users\cyberboy\documents\visual studio 2013\Projects\Hotspot\Hotspot\obj\Debug\Hotspot.Properties.Resources.resources
+c:\users\cyberboy\documents\visual studio 2013\Projects\Hotspot\Hotspot\obj\Debug\Hotspot.csproj.GenerateResource.Cache
+c:\users\cyberboy\documents\visual studio 2013\Projects\Hotspot\Hotspot\obj\Debug\Hotspot.exe
+c:\users\cyberboy\documents\visual studio 2013\Projects\Hotspot\Hotspot\obj\Debug\Hotspot.pdb
